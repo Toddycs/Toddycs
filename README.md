@@ -9,11 +9,11 @@
 
 Projetos que já participei:
 
-Just RP (dev)
-Umbrella RP (dev)
-Mystic RP (dev)
-CVR (dev)
-Projeto Cidadela (dev)
+- Just RP (dev)
+- Umbrella RP (dev)
+- Mystic RP (dev)
+- CVR (dev)
+- Projeto Cidadela (dev)
 
 
 <div align="center">
