@@ -6,13 +6,15 @@
 - 👯 Possuo projetos no FiveM (cfx.re)
 - 📫 Contato: contato@toddycs.com (talvez eu responda)
 
- ~ Projetos que já participei:
-  Just RP (dev)
-  Umbrella RP (dev)
-  Mystic RP (dev)
-  CVR (dev)
-  Projeto Cidadela (dev)
-;
+
+Projetos que já participei:
+
+Just RP (dev)
+Umbrella RP (dev)
+Mystic RP (dev)
+CVR (dev)
+Projeto Cidadela (dev)
+
 
 <div align="center">
   <a href="https://github.com/toddycs">
