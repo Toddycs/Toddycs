@@ -13,7 +13,6 @@ Projetos que já participei:
 - Umbrella RP (dev)
 - Mystic RP (dev)
 - CVR (dev)
-- Projeto Cidadela (dev/owner)
 
 
 <div align="center">
