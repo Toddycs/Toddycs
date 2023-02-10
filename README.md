@@ -11,8 +11,9 @@ Projetos que já participei:
 
 - Just RP (dev)
 - Umbrella RP (dev)
-- Mystic RP (dev)
+- Mystic RP (dev) 
 - CVR (dev)
+- Daroça RP (dev)
 
 
 <div align="center">
