@@ -9,11 +9,12 @@
 
 Projetos que já participei:
 
-- Just RP (dev)
+- Just RP (owner / dev)
 - Umbrella RP (dev)
 - Mystic RP (dev) 
 - CVR (dev)
 - Daroça RP (dev)
+- Arcane RP (owner / dev)
 
 
 <div align="center">
