@@ -4,7 +4,6 @@
 - 🔭 Atualmente sou desenvolvedor de jogos e apps.
 - 🌱 Cada vez aprendendo mais.
 - 👯 Possuo projetos no FiveM (cfx.re)
-- 📫 Contato: contato@toddycs.com (talvez eu responda)
 
 
 Projetos que já participei:
