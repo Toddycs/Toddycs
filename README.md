@@ -1,20 +1,12 @@
 ### Opa, tudo bem?
 
+18y
+lp/SP
 
-- 🔭 Atualmente sou desenvolvedor de jogos e apps.
-- 🌱 Cada vez aprendendo mais.
+- 👻 C# >>
+- 🔭 Software Developer (P)
+- 🌱 No pain, no gain
 - 👯 Possuo projetos no FiveM (cfx.re)
-
-
-Projetos que já participei:
-
-- Just RP (owner / dev)
-- Umbrella RP (dev)
-- Mystic RP (dev) 
-- CVR (dev)
-- Daroça RP (dev)
-- Arcane RP (owner / dev)
-
 
 <div align="center">
   <a href="https://github.com/toddycs">
