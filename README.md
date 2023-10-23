@@ -22,6 +22,35 @@ lp/SP
   </div>
 </div>
 
+<head>
+  <meta charset="UTF-8">
+  <title>Minha Animação GitHub</title>
+  <style>
+    #animated-element {
+      width: 50px;
+      height: 50px;
+      background-color: #3498db;
+      position: absolute;
+      animation: move 2s linear infinite;
+    }
+
+    @keyframes move {
+      0% {
+        left: 0;
+      }
+      50% {
+        left: 100%;
+      }
+      100% {
+        left: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="animated-element"></div>
+</body>
+
 <div align="center" style="display: inline_block"><br>
   <p>Dá uma olhada em algumas das minhas habilidades: </p>
   <img align="center" alt="JavascriptIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
