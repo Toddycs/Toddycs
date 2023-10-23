@@ -10,8 +10,12 @@ lp/SP
 
 <div align="center">
   <a href="https://github.com/toddycs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toddycs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddycs&layout=compact&langs_count=7&theme=dark"/>
+  <div style="padding: 5px;">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toddycs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </div>
+ <div style="padding: 5px;">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddycs&layout=compact&langs_count=7&theme=dark"/>
+  </div>
 </div>
 
 <div align="center" style="display: inline_block"><br>
