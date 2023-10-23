@@ -14,7 +14,8 @@ lp/SP
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddycs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
+  <p>Dá uma olhada em algumas das minhas habilidades: </p>
   <img align="center" alt="JavascriptIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CsharpIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="LuaIcon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
