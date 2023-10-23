@@ -17,39 +17,7 @@ lp/SP
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toddycs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddycs&layout=compact&langs_count=7&theme=dark"/>
   </div>
- <div style="padding: 5px;">
-     
-  </div>
 </div>
-
-<head>
-  <meta charset="UTF-8">
-  <title>Minha Animação GitHub</title>
-  <style>
-    #animated-element {
-      width: 50px;
-      height: 50px;
-      background-color: #3498db;
-      position: absolute;
-      animation: move 2s linear infinite;
-    }
-
-    @keyframes move {
-      0% {
-        left: 0;
-      }
-      50% {
-        left: 100%;
-      }
-      100% {
-        left: 0;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div id="animated-element"></div>
-</body>
 
 <div align="center" style="display: inline_block"><br>
   <p>Dá uma olhada em algumas das minhas habilidades: </p>
